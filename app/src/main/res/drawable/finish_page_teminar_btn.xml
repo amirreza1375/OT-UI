@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_pressed="false">
+        <shape>
+            <gradient android:startColor="@color/main_calendar_btn_start_m"
+                android:centerColor="@color/main_calendar_btn_center_m"
+                android:endColor="@color/main_calendar_btn_end_m"
+                android:angle="270"/>
+            <corners android:radius="160dp"/>
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape>
+            <gradient android:startColor="@color/main_calendar_btn_start_p_m"
+                android:centerColor="@color/main_calendar_btn_center_p_m"
+                android:endColor="@color/main_calendar_btn_end_p_m"
+                android:angle="270"/>
+            <corners android:radius="160dp"/>
+        </shape>
+    </item>
+
+</selector>
