@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34ace0</color>
+    <color name="colorPrimaryDark">#079CDB</color>
+    <color name="colorPrimaryLight">#49B3E0</color>
+    <color name="main_result_item_draft">#49B3E0</color>
+
+    <color name="colorAccent">#ff793f</color>
+    <color name="colorAccentDark">#FC6827</color>
+    <color name="colorAccentLight">#FC8F60</color>
+    <color name="colorDoneLight">#38E7BE</color>
+    <color name="colorDone">#33d9b2</color>
+    <color name="colorDoneDark">#2DBE9C</color>
+
+    <color name="bgRowBackground">#FA315B</color>
+    <color name="text_color">#000</color>
+    <color name="back_color">#fff</color>
+
+    <color name="icon_color">#585858</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="LimeGreen">#32CD32</color>
+
+    <color name="trasparent">#00FFFFFF</color>
+
+    //      ---------------------  SPLASH ACT
+    <color name="splash_back">#34ace0</color>
+    <color name="spalsh_icon">#F4F4F4</color>
+
+    //      ---------------------   LOGIN ACT
+    <color name="login_back">#fff</color>
+
+    <color name="login_top_icon">#000</color>
+    <color name="login_top_text">#000</color>
+    <color name="login_edt_hint">#7E7E7E</color>
+    <color name="login_edt_text">#000</color>
+    <color name="login_edt_back">#7E7E7E</color>
+    <color name="login_btn_back_start">#49B3E0</color>
+    <color name="login_btn_back_center">#34ace0</color>
+    <color name="login_btn_back_end">#079CDB</color>
+    <color name="login_btn_back_start_p">#50B4DF</color>
+    <color name="login_btn_back_center_p">#46B1DF</color>
+    <color name="login_btn_back_end_p">#189FD8</color>
+    <color name="login_btn_text">#fff</color>
+    <color name="login_edt_img">#ADADAD</color>
+
+    //      ----------------------   FROGET PASS ACT
+    <color name="main_back">#fff</color>
+    <color name="main_top_icon">#fff</color>
+
+    <color name="main_calendar_btn_start">#FC8F60</color>
+    <color name="main_calendar_btn_center">#ff793f</color>
+    <color name="main_calendar_btn_end">#FC6827</color>
+
+    <color name="main_calendar_btn_start_p">#FF9568</color>
+    <color name="main_calendar_btn_center_p">#FF844E</color>
+    <color name="main_calendar_btn_end_p">#FA753B</color>
+
+    <color name="main_search_back">#5E0057B8</color>
+    <color name="main_search_icon">#555555</color>
+    <color name="main_search_hint">#8F8F8F</color>
+    <color name="main_search_text">#000</color>
+
+    <color name="main_empty">#616161</color>
+    <color name="main_result_seprator">#D6D6D6</color>
+
+    <color name="main_drawer_icon">#000</color>
+    <color name="main_drawer_back">#fff</color>
+    <color name="main_drawer_back_p">#F8F8F8</color>
+    <color name="main_drawer_option">#fff</color>
+    <color name="main_drawer_option_p">#DAFFFFFF</color>
+
+    <color name="main_new_action_img">#fff</color>
+
+    <color name="main_calendar_text">#000</color>
+    <color name="main_result_border">#F1F1F1</color>
+
+
+</resources>

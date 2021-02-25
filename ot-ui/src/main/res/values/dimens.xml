@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="design_fab_image_size" tools:override="true">40dp</dimen>
+    <dimen name="icon">26dp</dimen>
+    <dimen name="drawerFontSize">16sp</dimen>
+</resources>

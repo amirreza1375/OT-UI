@@ -1,2 +1,3 @@
+include ':ot-ui'
 include ':app'
 rootProject.name = "OT-UI"
